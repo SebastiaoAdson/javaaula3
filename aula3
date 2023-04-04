@@ -1,0 +1,5 @@
+const minhaFuncao = (valor1, valor2) => valor1 + valor2 
+
+let resultado = minhaFuncao(6, 10)
+
+console.log(resultado)
